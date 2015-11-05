@@ -1,4 +1,4 @@
-JavaSnippets
+Swing, AWT Snippets
 ============
 
-Reusable Java components
+Boilerplate java swing,awt GUI components
